@@ -1,4 +1,4 @@
-# Machine-Learning-With-Hassan
+# Machine-Learning
 Author - Muhammad Hassan
 <br>
 Ai Engineering
